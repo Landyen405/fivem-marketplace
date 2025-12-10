@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Simple Car Pack",
+    "description": "A pack of 5 realistic vehicles",
+    "url": "https://github.com/YOUR_GITHUB_NAME/fivem-marketplace/raw/main/mods/car-pack.zip",
+    "filename": "car-pack.zip",
+    "image": "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/fivem-marketplace/main/images/car-pack.png",
+    "category": "Vehicles"
+  },
+  {
+    "name": "Enhanced Police Scripts",
+    "description": "Advanced police scripts for your server",
+    "url": "https://github.com/YOUR_GITHUB_NAME/fivem-marketplace/raw/main/mods/police-scripts.zip",
+    "filename": "police-scripts.zip",
+    "image": "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/fivem-marketplace/main/images/police-scripts.png",
+    "category": "Scripts"
+  },
+  {
+    "name": "Map Addon",
+    "description": "Adds new areas and interiors",
+    "url": "https://github.com/YOUR_GITHUB_NAME/fivem-marketplace/raw/main/mods/map-addon.zip",
+    "filename": "map-addon.zip",
+    "image": "https://raw.githubusercontent.com/YOUR_GITHUB_NAME/fivem-marketplace/main/images/map-addon.png",
+    "category": "Maps"
+  }
+]
